@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, Eu sou o Henrique Luis 👋
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueLCosta&show_icons=true&theme=transparent)
 
 <!--
 **HenriqueLCosta/HenriqueLCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
